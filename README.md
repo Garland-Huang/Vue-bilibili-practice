@@ -1,29 +1,8 @@
-# demo
+# 该项目为Vue3.0入门项目
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
-
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 使用的技术栈：
+    前台：Vue + Vue-Router + Vuex + Axios + MUI 
+    后端开放接口：node.js
+    数据库：mongoDB
+### 此处只有前端部分
+    
