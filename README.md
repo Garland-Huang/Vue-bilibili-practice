@@ -1,4 +1,4 @@
-# 该项目为Vue3.0入门项目
+# 该项目为Vue入门项目
 
 ### 使用的技术栈：
    前台：Vue +  + Vue-Router + Vuex + Axios + MUI 
